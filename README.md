@@ -1,6 +1,6 @@
 # 2D Sandbox Game in C++
 
-![SFML Logo](https://www.sfml-dev.org/images/sfml-logo-big.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SFML_Logo.svg/2048px-SFML_Logo.svg.png" height=120px width=120px> 
 
 A simple 2D sandbox game built from scratch using C++ and the [SFML](https://www.sfml-dev.org/) library. This project serves as a foundational example of a 2D game engine, featuring a main game loop, player physics, and dynamic world interaction.
 
